@@ -24,3 +24,14 @@ Browse them on the [resources page](https://k-telux.github.io/resource/).
 | Pump–probe timing and camera triggers | Lab method |
 
 Figures from published papers remain the property of their publishers and are shown for discussion.
+
+Earlier decks (PowerPoint files on the main site, PDF previews here):
+
+| Deck | Kind |
+|---|---|
+| Quantum memory with room-temperature atoms | CAS Key Laboratory of Quantum Information · journal club |
+| An introduction to nitrogen treatment | SCOPE Lab, Rice University · weekly meeting |
+| Peak fitting for PL, Raman and photon correlations | SCOPE Lab · data analysis |
+| Processing and interpreting photoluminescence data | SCOPE Lab · data analysis |
+| Building tools for plotting and comparison | SCOPE Lab · scientific software |
+| Heatmap Plotter and multi-peak spectrum analysis | SCOPE Lab · scientific software |
